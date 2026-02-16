@@ -1,0 +1,10 @@
+[project]
+name = "mandryl-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "condacolab>=0.1.10",
+    "lerobot>=0.4.3",
+]
