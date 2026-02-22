@@ -1,4 +1,5 @@
 site_name: Mandryl Docs
+site_url: https://mandryl-io.github.io/
 theme:
   name: shadcn
 nav:
