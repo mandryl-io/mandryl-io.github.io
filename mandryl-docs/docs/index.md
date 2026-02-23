@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Mandryl!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We're a group of hobbyist AI enthusiasts who are passionate about building AI models from the ground up and experimenting with their use cases, particularly in embedded spaces.
 
-## Commands
+## What are these docs?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+In these docs, we'll be sharing our learnings, experiments, and insights as we build and experiment with AI models for robots. Most of this will be in the format of notebooks, accessible on Google Colab, and some will be in the format of blog posts, accessible on our website.
 
-## Project layout
+## Join our community!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We're based in Sydney, Australia, and we're always excited to welcome new members to our in-person meetups! You can also join our online community on [Discord](https://discord.gg/XDeS8MsmzY) to chat and connect with us.
