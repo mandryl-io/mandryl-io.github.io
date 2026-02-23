@@ -1,9 +1,11 @@
 site_name: Mandryl Docs
-site_url: https://mandryl-io.github.io/
+site_url: https://docs.mandryl.io/
+
 theme:
   name: shadcn
+
 nav:
   - Home: index.md
   - Notebooks:
-    - Porting Datasets to v3.0: port-datasets-to-v3.md
-    - Finetuning SmolVLA for the SO-101 Arm: finetune-smolvla-so101.md
+      - Porting Datasets to v3.0: port-datasets-to-v3.md
+      - Finetuning SmolVLA for the SO-101 Arm: finetune-smolvla-so101.md
