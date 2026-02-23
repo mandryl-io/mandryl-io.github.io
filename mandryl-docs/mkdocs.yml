@@ -1,5 +1,7 @@
 site_name: Mandryl Docs
 site_url: https://docs.mandryl.io/
+repo_url: https://github.com/mandryl-io/mandryl-io.github.io
+repo_name: mandryl-io/mandryl-io.github.io
 
 theme:
   name: shadcn
